@@ -3,8 +3,11 @@ header{
     padding: 20px 0;
     
 }
-.itulo-principal{
-   padding-left: 30px;
+.titulo-principal{
+    font-size: 30px;
+    font-weight: bold;
+    color: #blak;
+    text-align: center;
 }
 #banner{
     width: 100%;
@@ -13,6 +16,7 @@ header{
     width: 949px;
     position: relative;
     margin: 0 auto;
+    
 }
 .principal{
     background: #cccccc;
